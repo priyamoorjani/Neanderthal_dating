@@ -1,0 +1,11 @@
+DIR: .
+SSS: 500
+genotypename: DIR/SSS.geno
+snpname: DIR/SSS.snp
+indivname:  DIR/SSS.ind
+maxdis: 0.01
+binsize: 0.00001
+idname: OOA.1 
+output: 500_OOA.1.out
+jackknife: NO
+numchrom: 50

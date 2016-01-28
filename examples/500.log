@@ -1,0 +1,19 @@
+parameter file: parExample1
+DIR: .
+SSS: 500
+genotypename: ./500.geno
+snpname: ./500.snp
+indivname: ./500.ind
+maxdis: 0.01
+binsize: 0.00001
+idname: OOA.1
+output: 500_OOA.1.out
+jackknife: NO
+numchrom: 50
+
+## indroll version: 5
+genotypename:  ./500.geno
+
+
+numindivs: 5 numsnps: 250000 nignore: 0
+##end of run
