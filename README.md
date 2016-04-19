@@ -12,6 +12,7 @@ http://www.biorxiv.org/content/early/2015/07/27/023341
 ```
 tar xvf neandertal_dating.tar
 cd neandertal_dating/src
+make
 make install
 ```
 This will create all executables in the neandertal_dating/bin/ folder. 
