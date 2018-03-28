@@ -4,9 +4,9 @@ This is a method for estimating the date of Neanderthal gene flow using a single
 *Genome sequence of a 45,000-year-old modern human from western Siberia* <br />
 http://www.nature.com/nature/journal/v514/n7523/full/nature13810.html
 
-*Dating ancient human samples using the recombination clock* <br />
+*A genetic method for dating ancient genomes provides a direct estimate of human generation interval in the last 45,000 years* <br />
 Priya Moorjani, Sriram Sankararaman, Qiaomei Fu, Molly Przeworski, Nick J Patterson, David E. Reich
-http://www.biorxiv.org/content/early/2015/07/27/023341
+http://www.pnas.org/content/113/20/5652.long
 
 ##Installation
 ```
@@ -19,7 +19,7 @@ This will create all executables in the neandertal_dating/bin/ folder.
 
 
 ### Input
-This method requires that the input data is available in EIGENSTRAT format (See http://genepath.med.harvard.edu/~reich/InputFileFormats.htm).  
+This method requires that the input data is available in EIGENSTRAT format (See https://reich.hms.harvard.edu/software/InputFileFormats).  
 
 ### Parameter file
 ```
