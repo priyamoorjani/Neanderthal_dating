@@ -46,4 +46,4 @@ Test data is available in the neandertal_dating/examples/ directory. To ensure t
 ```
 
 # Support
-Send queries to Priya Moorjani <pm2730@columbia.edu>
+Send queries to Priya Moorjani <moorjani@berkeley.edu>
