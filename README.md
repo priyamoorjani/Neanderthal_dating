@@ -8,7 +8,7 @@ http://www.nature.com/nature/journal/v514/n7523/full/nature13810.html
 Priya Moorjani, Sriram Sankararaman, Qiaomei Fu, Molly Przeworski, Nick J Patterson, David E. Reich
 http://www.pnas.org/content/113/20/5652.long
 
-###Installation
+### Installation
 ```
 tar xvf neandertal_dating.tar
 cd neandertal_dating/src
